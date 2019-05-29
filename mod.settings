@@ -1,0 +1,11 @@
+name        = "Autoexec"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[Allows to define a set of console commands to be run on start of each map.
+
+Default is to set "fps on".
+Can be configure by editing %AppData%\Natural Selection 2\Autoexec.json. ]=]
+image       = "preview.jpg"
+tag_modtype = "Tool"
+tag_support = "Passes Default Consistency"
+publish_id = "686d77e5"
